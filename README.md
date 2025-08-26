@@ -18,7 +18,7 @@ cd Guard-against-Infringement-An-Anti-Distillation-Federated-Learning-Watermarki
 
 #### and finally:
 ```
-python test_mnist.py    // or test_cifar.py
+python test_main.py    // or test_cifar.py
 ```
 
 We apologize for any inconvenience caused while running the code. Until the article is officially published, we will continue to optimize the code to ensure its ease of operation and readability in the following editions.
